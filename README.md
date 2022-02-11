@@ -12,3 +12,5 @@ Run the local server with `docsify serve`. You can preview your site in your bro
 docsify serve docs
 ```
 For more info about `docsify`, you can visit its [documentation](https://docsify.js.org/#/?id=docsify)
+## Acknowlegement
+This repo is greatly inspired by [PKU Compiler Course Online Doc](https://github.com/pku-minic/online-doc), thanks to [MaxXing](https://github.com/MaxXSoft).

@@ -1,5 +1,3 @@
-# Table of contents
-
 * [🌈 Welcome to Pintos](README.md)
 
 ## Getting Started
