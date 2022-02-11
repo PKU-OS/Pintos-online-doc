@@ -1,7 +1,7 @@
 # Pintos Project Online Documentation
 This repo holds the documentation for the Pintos Project at Peking Univerisity.
 
-Visit it online [here](https://pkuos.systems/pintos-online-doc/).
+Visit it online [here](https://pkuos.systems/Pintos-online-doc/).
 ## Development
 First install `docsify-cli` globally, which helps initializing and previewing the website locally.
 ```
